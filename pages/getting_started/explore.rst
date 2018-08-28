@@ -100,3 +100,4 @@ Graylog’s Processing Pipelines are a powerful feature that enables user to run
 change, convert. add to, delete from or drop a message, Pipelines are the place to do it.
 
 For more details, please see :ref:`pipelinestoc`
+
