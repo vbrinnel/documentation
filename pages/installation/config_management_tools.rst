@@ -1,5 +1,7 @@
+.. _confmgt:
+
 *********************
-Chef, Puppet, Ansible
+Chef, Puppet, & Ansible
 *********************
 
 The DevOps movement turbocharged market adoption of the newest generation of configuration management and orchestration tools like
